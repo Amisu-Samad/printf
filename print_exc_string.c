@@ -36,4 +36,4 @@ int print_exc_string(va_list val)
 		}
 	}
 	return (length);
-}	
+}
